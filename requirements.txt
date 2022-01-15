@@ -1,0 +1,5 @@
+discord.py==1.7.3
+firebase_admin==5.1.0
+Flask==2.0.2
+flask_socketio==5.1.1
+gevent_websocket==0.3.6
